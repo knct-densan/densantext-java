@@ -155,5 +155,3 @@ interface InterfaceSample{
 Hi ! 
 Hello
 ~~~
-
-
